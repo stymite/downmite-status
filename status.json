@@ -1,10 +1,10 @@
 {
   "notices": [
     {
-      "title": "YouTube downloads delayed",
-      "message": "YouTube changed something on their end. A fix is in progress — thanks for your patience.",
-      "level": "warning",
-      "time": "Today"
+      "title": "Testing",
+      "message": "Testing",
+      "level": "info",
+      "time": "Now"
     }
   ]
 }
